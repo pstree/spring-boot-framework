@@ -113,6 +113,9 @@
         <module>business-order</module>
         <module>commons-db</module>
         <module>commons-base</module>
+        <module>commons-cache</module>
+        <module>commons-oauth</module>
+
     </modules>
 
     <build>
